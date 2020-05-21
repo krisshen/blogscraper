@@ -1,0 +1,23 @@
+{
+  "name": "blogscraper",
+  "version": "1.0.0",
+  "description": "A Blog Scraper for https://www.propelleraero.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisshen/blogscraper.git"
+  },
+  "author": "kris.shen.yang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisshen/blogscraper/issues"
+  },
+  "homepage": "https://github.com/krisshen/blogscraper#readme",
+  "dependencies": {
+    "puppeteer": "^3.1.0"
+  }
+}
