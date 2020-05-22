@@ -15,6 +15,11 @@ Approach 2:
 One thing I've noticed is, from blog page, click every blog header (other than "All") then it will display all blogs under this category, so what we need to do is to simply click all blog header buttons in order to get all blogs info, then we do the same thing, visit every blog page, this will save many page interactions.
 ![](./screenshots/blog_headers.jpg)
 
+Improvements:
+
+One thing can be improved here is to visit multiple blogs at same time, this can huge amount of time.
+
+
 # Prerequisites
 
 -  [Node.js](https://nodejs.org/en/)
